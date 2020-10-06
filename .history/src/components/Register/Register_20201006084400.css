@@ -1,0 +1,48 @@
+.register{
+    position: absolute;
+    width: 570px;
+    height:500px;
+    left: 435px;
+    top: 130px;
+    background: #FFFFFF;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+}
+.resister-volunteer{
+    position: relative;
+    height: 29px;
+    left: 10.03%;
+    right: 45.69%;
+    top: 45px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #000000;
+
+}
+
+.register-btn{
+    padding: 14px 0px 0px 181px;
+    position: absolute;
+    width: 425px;
+    height: 48px;
+    left:75px;
+    top:400px;
+    border: none;
+    color: #FFFFFF;
+    background: #3F90FC;
+    cursor: pointer;
+}
+.resister-form input{
+    position: relative;
+    width: 462px;
+    height: 35px;
+    left:40px;
+    top:55px;
+    border: none;
+    border-bottom: 1px solid #999;
+    outline: none;
+}

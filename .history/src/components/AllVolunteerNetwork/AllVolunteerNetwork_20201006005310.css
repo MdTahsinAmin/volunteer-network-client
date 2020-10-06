@@ -1,0 +1,23 @@
+.all-networks{
+    width: 270px;
+    height: 320px;
+    border-radius: 10px;
+    margin-bottom:10px;
+}
+.event-image{
+    width: 270px;
+    height: 320px;
+}
+.footer-title{
+   top:10px;
+   left:10px;
+   z-index: 10;
+   text-align: center;
+}
+
+::placeholder{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}

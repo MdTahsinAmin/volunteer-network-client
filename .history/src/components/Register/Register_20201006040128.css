@@ -1,0 +1,12 @@
+.register{
+    position: absolute;
+    width: 570px;
+    height: 591px;
+    left: 435px;
+    top: 130px;
+    background: #FFFFFF;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+}

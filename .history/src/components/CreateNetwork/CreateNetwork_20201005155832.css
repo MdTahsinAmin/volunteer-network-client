@@ -1,0 +1,71 @@
+.create-network{
+    margin-top:70px;
+    background-color: #fff;
+    padding:68px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.formField{
+    background-color: white;
+}
+
+.originToDestination input{
+    width: 400px;
+    height: 40px;    
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+    margin-bottom: 10px;
+}
+.event{
+    margin-right:80px;
+}
+.toFrom{
+    margin-right:80px;
+}
+.description{
+    width: 400px;
+    height: 121px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+}
+::placeholder{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #C9C9C9;
+}
+input[type='file']{
+    display:none;
+}
+label{
+    width: 173px;
+    height:40px;
+    background: #E5F3FF;
+    border: 1px solid #0084FF;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #0084FF;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-align: center;
+}
+.submit{
+position: absolute;
+width: 108px;
+height: 37px;
+top: 565px;
+}
+.cloudLogo{
+    width: 24px;
+    height: 24px;
+}

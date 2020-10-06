@@ -1,0 +1,55 @@
+.create-network{
+    margin-top:70px;
+    background-color: #fff;
+    padding:68px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.formField{
+    background-color: white;
+}
+
+.originToDestination input{
+    width: 400px;
+    height: 40px;    
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+    margin-bottom: 10px;
+}
+.event{
+    margin-right:80px;
+}
+.toFrom{
+    margin-right:80px;
+}
+.description{
+    width: 400px;
+    height: 121px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+}
+::placeholder{
+    
+    width: 133.33px;
+    height: 18.67px;
+    left: 381px;
+    top: 287.67px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #C9C9C9;
+}
+input input[type="text"]{
+    
+    
+}

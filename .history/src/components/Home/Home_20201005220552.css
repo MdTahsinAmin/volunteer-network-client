@@ -1,0 +1,49 @@
+.home{
+    background: #E5E5E5;
+}
+input{
+    display: inline-block;
+    font-size:20px;
+    box-sizing: border-box;
+}
+input[type="text"]{
+    background: #FFFFFF;
+    width: 340px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding:0 24px;
+    border-radius: 25px 0 0 25px;
+}
+
+button{
+    position: relative;
+    border-radius:0 25px 25px 0;
+    width:150px;
+    height: 50px;
+    left:-5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background:#3F90FC;
+    color:#fff;
+    
+}
+.title-searchBox{
+    text-align: center;
+}
+.title{
+    text-align: center;
+    width: 729px;
+    height: 44px;
+    left: 355px;
+    top: 173px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+
+}

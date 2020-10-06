@@ -1,0 +1,26 @@
+.all-networks{
+    width: 270px;
+    height: 320px;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+.event-image{
+    width: 270px;
+    height: 320px;
+}
+.footer-title{
+    position: absolute;
+    top:30px;
+    left: 37px;
+    right: 30;
+    text-align: center;
+    z-index: 10;
+    overflow: hidden;
+}
+
+::placeholder{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}

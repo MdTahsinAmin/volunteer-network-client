@@ -1,0 +1,20 @@
+.all-networks{
+    width: 270px;
+    height: 320px;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+.event-image{
+    width: 270px;
+    height: 320px;
+}
+.footer-title{
+    position: absolute;
+    top:23px;
+    left: 30px;
+    right: 30px;
+    text-align: center;
+    z-index: 10;
+    color: #ffff;
+    overflow: hidden;
+}

@@ -1,0 +1,36 @@
+.create-network{
+    margin-top:70px;
+    background-color: #fff;
+    padding:68px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.formField{
+    background-color: white;
+}
+
+.originToDestination input{
+    width: 400px;
+    height: 40px;    
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+    margin-bottom: 10px;
+}
+.event{
+    margin-right:80px;
+}
+
+.description{
+    width: 400px;
+    height: 121px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+
+}
+::placeholder{
+    color:grey;
+}

@@ -1,0 +1,16 @@
+.all-networks{
+    width: 270px;
+    height: 320px;
+    border-radius: 10px;
+    margin-bottom:10px;
+}
+.event-image{
+    width: 270px;
+    height: 320px;
+}
+.footer-title{
+   position: relative;
+   top:-65px;
+   z-index: 10;
+}
+
