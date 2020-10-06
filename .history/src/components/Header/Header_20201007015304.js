@@ -50,7 +50,7 @@ const Header = (props) => {
       <div className="header">
           <div className={props.navbar ? "container" : 'adminPanel'}>
           <nav className="navbar navbar-expand-lg navbar-light">
-            <Link to='/home' className="navbar-brand"><img className={props.navbar ?'volunteerLogo':'Logo'} src={volunteerLogo} alt=""/></Link>
+            <Link to={'/home'} className="navbar-brand"><img className={props.navbar ?'volunteerLogo':'Logo'} src={volunteerLogo} alt=""/></Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>

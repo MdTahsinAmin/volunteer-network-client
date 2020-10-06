@@ -23,7 +23,7 @@
 position: relative;
 width: 177px;
 height: 33px;
-left: -30px;
+left: 35px;
 top: 25px;
 font-family: Avenir;
 font-style: normal;
@@ -31,7 +31,7 @@ font-weight: 900;
 font-size: 22px;
 text-align: center;
 color: #0B0B0B;
-margin-bottom:28px;
+margin-bottom:35px;
 }
 .cancel-btn{
     position: relative;

@@ -1,0 +1,44 @@
+.adminPanel{
+    margin-right:20px;
+}
+.Logo{
+    width: 202.81px;
+    height: 60px;
+    left: 88px;
+    top: 44px;
+    margin-left:55px;
+}
+.adminPanel-section{
+    display:flex;
+}
+.section-panel{
+    margin-top:15px;
+    margin-left:75px;
+}
+.group-panel{
+    display:inline-block;
+    margin-top: 10px;
+}
+.group-panel span{
+    margin-top:3px;
+    margin-left:5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size:18px;
+}
+.Volunteer-list{
+    width:80%;
+    margin-top:3px;
+    width: 1000px;
+    height: 600px;
+    margin-right: 15px;
+    background: #F4F7FC;
+}
+.volunteerLink:hover{
+    text-decoration: none;
+}
+
+.swapTitle{
+     text-align: center;
+}
