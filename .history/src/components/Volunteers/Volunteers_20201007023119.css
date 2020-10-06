@@ -1,0 +1,9 @@
+.table-header{
+    width: 1008px;
+    height: 54px;
+    background: #F5F6FA;
+}
+.table-header th{
+    color:grey;
+    text-align:center;
+}
