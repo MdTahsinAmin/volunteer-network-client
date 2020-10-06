@@ -1,0 +1,18 @@
+.exact-information{
+    position: absolute;
+    width: 570px;
+    height: 219px;
+    left: 0px;
+    top: 25px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+.extraVolunteer{
+    position: absolute;
+    width: 194px;
+    height: 173px;
+    left:15px;
+    top: 20px;
+    border-radius: 15px;
+}

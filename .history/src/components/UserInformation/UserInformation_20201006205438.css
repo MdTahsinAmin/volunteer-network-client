@@ -1,0 +1,47 @@
+.exact-information{
+    position: absolute;
+    width: 550px;
+    height: 200px;
+    left: 0px;
+    top: 25px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    margin-bottom:10px;
+}
+.middle{
+    margin-right: 5px;
+}
+.extraVolunteer{
+    position: absolute;
+    width: 194px;
+    height: 173px;
+    left:15px;
+    top: 12px;
+    border-radius: 15px;
+}
+.event-organize{
+position: relative;
+width: 177px;
+height: 33px;
+left: 270px;
+top: 25px;
+font-family: Avenir;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+text-align: center;
+color: #0B0B0B;
+margin-bottom:35px;
+}
+.cancel-btn{
+    position: relative;
+    width: 131px;
+    height: 48px;
+    left:  382px;
+    top: 0px;
+    cursor: pointer;
+    border-radius: 5px;
+    border:none;
+    background: #3F90FC;
+}

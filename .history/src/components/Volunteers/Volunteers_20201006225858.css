@@ -1,0 +1,10 @@
+.table-header{
+    width: 1008px;
+    height: 54px;
+    background: #F5F6FA;
+    border-radius: 20px;
+}
+.table-header td{
+    color:grey;
+    text-align:center;
+}
