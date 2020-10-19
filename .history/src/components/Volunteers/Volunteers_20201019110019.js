@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import './Volunteers.css'
 
 import AdminPanelInformaion from '../AdminPanelInformation/AdminPanelInformaion';
-import { CircularProgress } from '@material-ui/core';
 
 
 const Volunteers = () => {
@@ -43,7 +42,6 @@ const Volunteers = () => {
                     <th>Action</th>
                 </tr>
                 {
-                    allVolunteers.length ===0 ?<CircularProgress/> :
                     allVolunteers.map(volunteer => <AdminPanelInformaion volunteer={volunteer} key={volunteer._id} handleDelete={handleDelete}></AdminPanelInformaion>)
                 }
             </table>
